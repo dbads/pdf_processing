@@ -2,7 +2,7 @@ certifi==2018.1.18
 chardet==3.0.4
 Django==1.11.17
 django-ipware==1.1.6
-djangorestframework==3.6.4
+djangorestframework==3.9.1
 idna==2.6
 jsonfield==2.0.2
 mysqlclient==1.3.10
